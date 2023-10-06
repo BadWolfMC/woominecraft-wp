@@ -1,9 +1,9 @@
 {
   "name": "jaywood/woominecraft-wp",
   "description": "A minecraft donation plugin for WordPress",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "type": "wordpress-plugin",
-  "license": "GPLv2",
+  "license": "GPL-2.0",
   "repositories": [
     {
       "type": "composer",
