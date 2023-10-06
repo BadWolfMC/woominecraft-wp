@@ -4,8 +4,8 @@
  
 **License:** GPLv2 or later   
 **Requires at least:** 4.9   
-**Tested up to:** 5.8.2   
-**Stable tag:** 1.4.5  
+**Tested up to:** 6.3.1   
+**Stable tag:** 1.4.6  
 
 A FREE Minecraft Donation plugin which works in conjunction with my [WooMinecraft java plugin](https://github.com/woominecraft/woominecraft) for Minecraft to provide a self-hosted donation platform.
 
@@ -39,8 +39,7 @@ Supports the following:
 * No, under no circumstances will we ever support offline servers.
 
 ### What payment gateways does this support?
-* Anything? Well to be honest, this plugin does not mess with gateways at all. It relies solely on WooCommerce for the
-payments - [check google](http://lmgtfy.com/?q###Woocommerce+payment+gateways)
+* This plugin does not mess with gateways at all. It relies solely on WooCommerce for the payments - [check google](http://lmgtfy.com/?q###Woocommerce+payment+gateways)
 
 ### I just got a donation but it's not being sent!
 * The order must be set to 'completed' in order for the order to be sent, that is the ONLY status that we're hooked into.
@@ -60,6 +59,9 @@ payments - [check google](http://lmgtfy.com/?q###Woocommerce+payment+gateways)
    _( Multi-server Support )_
 
 ## Changelog
+
+### 1.4.6
+* Dependency updates.
 
 ### 1.4.5
 * Small readme fixes in automation processes.
