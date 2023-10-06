@@ -3,7 +3,7 @@
   "description": "A minecraft donation plugin for WordPress",
   "version": "1.4.6",
   "type": "wordpress-plugin",
-  "license": "GPL-2.0",
+  "license": "GPL-2.0-or-later",
   "repositories": [
     {
       "type": "composer",
